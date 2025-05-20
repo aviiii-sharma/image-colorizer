@@ -2,7 +2,7 @@
 
 A web application that uses deep learning to colorize black and white images. Built with Next.js for the frontend and Python with OpenCV for the colorization process.
 
-![Image Colorizer](https://github.com/aviiii-sharma/image-colorizer/raw/main/public/placeholder.jpg)
+![Image Colorizer]([https://github.com/aviiii-sharma/image-colorizer/raw/main/public/placeholder.jpg](https://github.com/aviiii-sharma/image-colorizer/blob/main/public/placeholder.jpg))
 
 ## Features
 
